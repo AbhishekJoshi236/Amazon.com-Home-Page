@@ -2,7 +2,7 @@
 
 ## About
 
-This project is a recreation of the home page of Amazon.com using HTML, CSS, and JavaScript. It aims to showcase my web development skills and provide an interactive user experience similar to the actual Amazon.com website.
+This project is a recreation of the home page of Amazon.com using HTML and CSS. It aims to showcase my web development skills and provide an interactive user experience similar to the actual Amazon.com website.
 
 ## Live Demo
 
@@ -12,7 +12,6 @@ Visit the live demo of the Amazon.com Home Page. [Click here](https://abhishekjo
 
 - HTML
 - CSS
-- JavaScript
 
 ## Features
 
