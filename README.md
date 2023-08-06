@@ -26,7 +26,7 @@ Contributions to this project are welcome! If you find any issues or want to sug
 
 If you have any questions or suggestions regarding the project, feel free to reach out to me:
 
-- Email: allabhishekjoshi.com
+- Email: allabhishekjoshi@gmail.com
 - GitHub: [AbhishekJoshi236](https://github.com/AbhishekJoshi236/)
 
 ---
